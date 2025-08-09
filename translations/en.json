@@ -1,0 +1,16 @@
+{
+    "login_title": "Login - Basim Trading Bot",
+    "username": "Username:",
+    "password": "Password:",
+    "login": "Login",
+    "success_superuser": "✅ Superuser login successful!",
+    "success_user": "✅ User login successful!",
+    "first_device": "First login from this device. Device registered.",
+    "device_error": "❌ This account is locked to another device!",
+    "pending": "Your account is pending activation. Please wait for approval.",
+    "rejected": "Your account has been rejected by the admin.",
+    "invalid": "❌ Invalid username or password.",
+    "logout": "Logout",
+    "change_theme": "Change Theme",
+    "change_language": "Change Language"
+}
